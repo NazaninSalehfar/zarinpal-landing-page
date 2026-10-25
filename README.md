@@ -21,7 +21,7 @@ This project was created to practice frontend development and recreate the layou
 
 ## Screenshots
 
-Screenshots of the project will be added here.
+![ZarinPal landing page screenshot](screenshot.png)
 
 ## Live Demo
 
